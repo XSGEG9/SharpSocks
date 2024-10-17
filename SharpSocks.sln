@@ -5,11 +5,7 @@ VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpSocksImplant", "SharpSocksImplant\SharpSocksImplant.csproj", "{3D33DC4C-4318-4ACA-9CDC-7D361D10B7C8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharpSocksServer", "SharpSocksServer\SharpSocksServer.csproj", "{86D10A34-C374-4DE4-8E12-490E5E65DDFF}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Implant", "Implant", "{7609AA60-9A82-47F8-81B3-6F8A27C7BD45}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Server", "Server", "{9BD7DAD8-4485-4CFD-B17F-7F1DF9C598F2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpSocksCommon", "SharpSocksCommon\SharpSocksCommon.csproj", "{5D93EC58-DE1F-4471-971E-EFEC458025D6}"
 EndProject
